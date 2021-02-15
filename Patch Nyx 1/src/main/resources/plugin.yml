@@ -1,0 +1,5 @@
+name: Patch001
+version: ${project.version}
+main: net.nyx.patch001.Main
+api-version: 1.16
+authors: [ Aerotracker ]
